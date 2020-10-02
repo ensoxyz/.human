@@ -7,9 +7,11 @@ DB: SQLITE3
 CREATE TABLE (id INTEGER PRIMARY KEY, City TEXT, Country TEXT, Region TEXT, Lattitude ... etc) 
 
 
-
-|WHERE                                                                                                                                    
-| CITY    | COUNTRY | TIME_ZONE | LATTITUDE     | LONGITUDE     
+|------|
+|WHERE |
+|---------|---------|-----------|---------------|-----------|
+| CITY    | COUNTRY | TIME_ZONE | LATTITUDE     | LONGITUDE |
+|---------|---------|-----------|---------------|-----------|
 | SEATTLE | US      | PST       | N | 1983094.0 | W | 13832749.0 |
 
 
