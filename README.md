@@ -1,3 +1,1 @@
 # .human
-
-DB: SQLITE3
